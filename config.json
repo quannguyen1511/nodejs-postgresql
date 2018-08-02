@@ -1,0 +1,16 @@
+{
+  "__comment": "file cau hinh json",
+  "PORT": 4000,
+
+  "postgres": {
+    "user": "jmejgqrp",
+    "password": "pISlmdOUi2lfrdd3Rw5j5tgrBTBz2ofn",
+    "host": "@baasu.db.elephantsql.com:5432",
+    "database": "jmejgqrp"
+  },
+  "ROLE": {
+    "ADMIN": "Admin",
+    "USER": "User",
+    "ALL": "ALL"
+  }
+}
